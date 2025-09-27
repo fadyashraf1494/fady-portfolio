@@ -151,6 +151,13 @@
   text-decoration: underline;
 }
 
+  .contact-info,
+  .contact-info p,
+  .contact-info a,
+  .contact-info strong {
+   color: #00e0ff;
+  }
+
   
   /* Footer */
   footer {
@@ -162,4 +169,5 @@
   }
 
   
+
 
